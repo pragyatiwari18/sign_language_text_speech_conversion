@@ -1,2 +1,8 @@
-# sign_language_text_speech_conversion
-A deep learning project that converts sign language gestures into text and speech using Computer Vision and CNN. It recognizes hand gestures via webcam and generates real-time text and audio output with Text-to-Speech (TTS) integration.
+Run the main manual.py to run all th python files
+Add your own dataset if you want
+get help from .h5 file format to understand the massive data handling and testing
+Add from A to Z letters image of your hand
+Make changes accordingly in your added Guide before the concept of changing sign language to text
+The images provided are just one skeleton image of the sign 
+make the copy of the image to aound 179/180
+Then proceed to train the model
